@@ -1,0 +1,30 @@
+.heading {
+    display: flex;
+    background: white;
+    /* position: fixed; */
+    border-radius: 5px;
+    margin: 20px;
+    /* top: 20px; */
+    /* margin-top: 20px; */
+    height: 70px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    /* width:95%; */
+    h5{
+        margin-top: 13px;
+        color: black;
+    }
+   
+    
+}
+.heading>img{
+    margin: 10px;
+    height: 40px;
+
+}
+.bottom{
+    background: white;
+    border-radius: 5px;
+    margin: 20px;
+    height: 68%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
